@@ -46,6 +46,8 @@ theme:
     - content.code.select
     - content.tabs.link
 
+  logo: images/logo.png
+  favicon: images/logo.png
   icon:
     repo: fontawesome/brands/github
 

@@ -15,3 +15,24 @@ Thumbs.db
 .vscode/
 *.swp
 *.swo
+# ── LogicMind managed instructions (do not edit this block) ──
+.github/instructions/asic-glossary.instructions.md
+.github/instructions/bash-quality.instructions.md
+.github/instructions/c-quality.instructions.md
+.github/instructions/design-clippy-quality.instructions.md
+.github/instructions/design-forge-managed.instructions.md
+.github/instructions/go-quality.instructions.md
+.github/instructions/logicmind-environment.instructions.md
+.github/instructions/logicmind-postinstall-scripts.instructions.md
+.github/instructions/logicmind-release-pipeline.instructions.md
+.github/instructions/makefile-quality.instructions.md
+.github/instructions/markdown-quality.instructions.md
+.github/instructions/packaging-dependencies.instructions.md
+.github/instructions/plugin-architect-quality.instructions.md
+.github/instructions/plugin-managed-instructions.instructions.md
+.github/instructions/postinstall-scripts.instructions.md
+.github/instructions/python-quality.instructions.md
+.github/instructions/releasing.instructions.md
+.github/instructions/rust-quality.instructions.md
+.github/instructions/skills-quality.instructions.md
+.github/instructions/svclippy.instructions.md
